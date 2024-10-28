@@ -1,0 +1,2 @@
+1. Can only return one Parent
+2. In JSX we have to close all of the tags
